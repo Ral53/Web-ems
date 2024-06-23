@@ -1,0 +1,19 @@
+.footer {
+    /* position: absolute; */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    color: white;
+}
+
+h2 {
+    text-align: center; /* Center align the text */
+    font-weight: bold !important;
+    font-size: 2rem; /* Increase the text size */
+  }
+  
